@@ -1,0 +1,27 @@
+body{
+    background-color:bisque
+}
+
+@media (min-width: 576px){
+    body{
+        background:lightblue;
+    }
+}
+
+@media (min-width: 768px){
+    body{
+        background:goldenrod;
+    }
+}
+
+@media (min-width: 992px){
+    body{
+        background-color:greenyellow;
+    }
+}
+
+@media (min-width: 1200px){
+    body{
+        background-color:orange;
+    }
+}
